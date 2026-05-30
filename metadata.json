@@ -1,0 +1,6 @@
+{
+  "name": "SaaS Billing Portal",
+  "description": "A premium Role-Based SaaS Billing Portal with user management, subscriptions, financial tracking, invoicing, and interactive dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
